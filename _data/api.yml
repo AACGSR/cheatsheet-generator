@@ -1,6 +1,6 @@
 - title: Anchors
   sub-title: 
-  color: aaaaaa
+  color: aaaaaab
   items:
       - title: ^
         sub-title: Start of string, or start of line in multi-line pattern
