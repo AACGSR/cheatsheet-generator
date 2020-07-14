@@ -6,3 +6,4 @@ email: your-email@example.com
 thumbnail: assets/thumbnail.png
 
 lang: enn
+theme: jekyll-theme-cayman
